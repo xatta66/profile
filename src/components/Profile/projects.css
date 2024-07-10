@@ -1,0 +1,56 @@
+.Profile {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    align-content: space-around;
+    justify-content: center;
+}
+
+.Cookies {
+    width: 90%;
+    height: 430px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: center;
+    border-radius: 50px;
+    border: 2px solid #79798d;
+}
+
+.CookiesBackImage {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 50px;
+    z-index: 0;
+    float: left;
+    filter:blur(5px);
+}
+
+.CookiesBackImage:hover {
+    filter:none;
+    transition: 1s;
+    transform: scale(1.03);
+}
+
+.CookiesButton {
+    background-color: #cfcfe4;
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 30px;
+    font-family: 'Steppe-ExtraBold', sans-serif;
+}
+
+.CookiesButton:hover {
+    background-color: #471f98;
+    color: #a1c0a3;
+}

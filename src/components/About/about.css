@@ -1,0 +1,86 @@
+.About {
+    margin-top: 250px;
+    width: 60%;
+    margin: 0 auto;
+    align-content: space-around;
+    justify-content: center;
+}
+
+.Avatar {
+    width: 320px;
+    height: fit-content;
+    float: center;
+    clip-path: circle(150px);
+    z-index: 4;
+    margin-top: -137px;
+    filter: grayscale(1);
+    transition: 1s;
+}
+
+.Avatar:hover {
+    filter: grayscale(0);
+}
+
+.textAboutMe {
+    height: 280px;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+
+.SkillsLogo {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    margin: 50px;
+  }
+  
+  .SkillsLogoImg {
+      width: 50px;
+      height: 50px;
+      margin: 15px;
+      -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition: transform .8s ease-in-out;
+  }
+
+  .SkillsLogoImg:hover {
+    -webkit-transform: rotate(360deg); 
+    transform: rotate(360deg);
+  }
+  
+.Studies {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.Courses {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+.Courses ul li {
+    margin-bottom: 30px;
+}
+
+.CertificateItlogia {
+    width: 320px;
+    height: 260px;    
+    float: right;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 200px;
+    transition: 1s;     
+}
+
+.CertificateItlogia:hover {
+    transform: scale(1.8);
+}

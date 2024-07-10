@@ -1,0 +1,22 @@
+* {
+  background-color: #cfcfe4;
+  color: #030326;
+}
+
+@font-face {
+  font-family: 'Steppe-Book';
+  src: url('../src/assets/fonts/Steppe-Book.ttf');
+}
+
+@font-face {
+  font-family: 'Steppe-ExtraBold';
+  src: url('../src/assets/fonts/Steppe-ExtraBold.ttf');
+}
+
+.App {
+  text-align: center;
+  font-family: 'Steppe-ExtraBold', sans-serif;
+}
+
+
+

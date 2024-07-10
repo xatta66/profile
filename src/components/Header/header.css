@@ -1,0 +1,26 @@
+.header {
+    position:fixed;
+    background-color: #79798d;
+    width: 100%;
+    height: 250px;
+    font-size: 18px;
+}
+
+.headerButtons {
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    border-color: #471f98 #2023d8;
+    font-size: 20px;
+    background-color: #79798d;
+    border-radius: 30px;
+    font-family: 'Steppe-ExtraBold', sans-serif;
+}
+
+.headerButtons:hover {
+    background-color: #471f98;
+    color: #a1c0a3;
+}
+
+
