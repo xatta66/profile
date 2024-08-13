@@ -29,6 +29,11 @@
 
 }
 
+.Skills {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
 .SkillsLogo {
     height: 100px;
     display: flex;
