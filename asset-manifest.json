@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.d93205a3.css",
-    "main.js": "/profile/static/js/main.3b721d51.js",
+    "main.css": "/profile/static/css/main.e2b2294f.css",
+    "main.js": "/profile/static/js/main.1d534983.js",
     "static/js/453.d73b0aaa.chunk.js": "/profile/static/js/453.d73b0aaa.chunk.js",
     "static/media/CookiesBackImage.png": "/profile/static/media/CookiesBackImage.e15d3825178bbfe64fcf.png",
     "static/media/SofiaSansExtraCondensed-VariableFont_wght.ttf": "/profile/static/media/SofiaSansExtraCondensed-VariableFont_wght.b8c4d3164af817b434e0.ttf",
     "static/media/SofiaSansExtraCondensed-Italic-VariableFont_wght.ttf": "/profile/static/media/SofiaSansExtraCondensed-Italic-VariableFont_wght.5fa0ca299d9726fc0c80.ttf",
+    "static/media/IrbyBackImage.png": "/profile/static/media/IrbyBackImage.b275efba3163073904d6.png",
     "static/media/Sevillana-Regular.ttf": "/profile/static/media/Sevillana-Regular.32847eb69e8f7abd6778.ttf",
     "static/media/Steppe-Book.ttf": "/profile/static/media/Steppe-Book.8d5a37823677d46ee02e.ttf",
     "static/media/Steppe-ExtraBold.ttf": "/profile/static/media/Steppe-ExtraBold.641223a49d5711831be1.ttf",
     "static/media/Avatar.png": "/profile/static/media/Avatar.38756866f2dba9359726.png",
     "static/media/Certificate.png": "/profile/static/media/Certificate.7f52667e17a2be924cbc.png",
     "index.html": "/profile/index.html",
-    "main.d93205a3.css.map": "/profile/static/css/main.d93205a3.css.map",
-    "main.3b721d51.js.map": "/profile/static/js/main.3b721d51.js.map",
+    "main.e2b2294f.css.map": "/profile/static/css/main.e2b2294f.css.map",
+    "main.1d534983.js.map": "/profile/static/js/main.1d534983.js.map",
     "453.d73b0aaa.chunk.js.map": "/profile/static/js/453.d73b0aaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d93205a3.css",
-    "static/js/main.3b721d51.js"
+    "static/css/main.e2b2294f.css",
+    "static/js/main.1d534983.js"
   ]
 }
